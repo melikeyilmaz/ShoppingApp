@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6DC5354E-50FA-402F-BBF8-C379AC238349}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pattern</RootNamespace>
+    <AssemblyName>Pattern</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmMusteriGorusleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMusteriGorusleri.Designer.cs">
+      <DependentUpon>FrmMusteriGorusleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUyeOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUyeOl.Designer.cs">
+      <DependentUpon>FrmUyeOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HizliTeslimatBolumu.cs" />
+    <Compile Include="KargoBridge.cs" />
+    <Compile Include="IKargoCesitleri.cs" />
+    <Compile Include="KullaniciGiris.cs" />
+    <Compile Include="AlısverisDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AlısverisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ConcreteObserver.cs" />
+    <Compile Include="ConcreteStrategyKrediKarti.cs" />
+    <Compile Include="ConcreteStrategyNakit.cs" />
+    <Compile Include="ConcreteSubject.cs" />
+    <Compile Include="Database.cs" />
+    <Compile Include="FrmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiris.Designer.cs">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnaForm.Designer.cs">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKadin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKadin.Designer.cs">
+      <DependentUpon>FrmKadin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmErkek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmErkek.Designer.cs">
+      <DependentUpon>FrmErkek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUrunEkle.Designer.cs">
+      <DependentUpon>FrmUrunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStok.Designer.cs">
+      <DependentUpon>FrmStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KadinUrun.cs" />
+    <Compile Include="KullaniciGirisDecorator.cs" />
+    <Compile Include="Observer.cs" />
+    <Compile Include="Subject.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stok.cs" />
+    <Compile Include="StrategyOdeme.cs" />
+    <Compile Include="UcretsizKargoBolumu.cs" />
+    <Compile Include="Urun.cs" />
+    <Compile Include="urunEkle.cs" />
+    <Compile Include="UrunFactory.cs" />
+    <Compile Include="ErkekUrun.cs" />
+    <Compile Include="UyeKullanici.cs" />
+    <Compile Include="Kisi.cs" />
+    <Compile Include="KisiCareTaker.cs" />
+    <Compile Include="KisiMemento.cs" />
+    <Compile Include="YeniKullanici.cs" />
+    <EmbeddedResource Include="FrmGiris.resx">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnaForm.resx">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKadin.resx">
+      <DependentUpon>FrmKadin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmErkek.resx">
+      <DependentUpon>FrmErkek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMusteriGorusleri.resx">
+      <DependentUpon>FrmMusteriGorusleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUrunEkle.resx">
+      <DependentUpon>FrmUrunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStok.resx">
+      <DependentUpon>FrmStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUyeOl.resx">
+      <DependentUpon>FrmUyeOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="AlısverisDataSet.xsc">
+      <DependentUpon>AlısverisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AlısverisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AlısverisDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AlısverisDataSet.xss">
+      <DependentUpon>AlısverisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\MusteriGorusleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkek.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\giris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\yeniurun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\stoktablosu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cikis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekKazak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekKaban.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekCeket.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekTShirt.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekEsofman.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekPantolon.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekTerlik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekAyakkabi.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\erkekBot.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinKazak.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinKaban.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinCeket.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinTShirt.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinEsofman.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinPantolon.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinTerlik.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinAyakkabi.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kadinBot.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

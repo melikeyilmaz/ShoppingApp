@@ -1,0 +1,9 @@
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Alısveris.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.FrmAdminGiris.resources
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.FrmYeniUrun.resources
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Alısveris.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Alısveris.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.pdb

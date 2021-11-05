@@ -1,0 +1,155 @@
+C:\Users\melik\Desktop\Pattern\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Pattern\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.FrmAdminGiris.resources
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Pattern\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.FrmAdminGiris.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.FrmGiyimUrunleri.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.FrmTeknolojiUrunleri.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Pattern - Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.FrmAdminGiris.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.FrmGiyimUrunleri.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.FrmTeknolojiUrunleri.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternn - Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.FrmGiyimUrunleri.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.FrmTeknolojiUrunleri.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn - Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmGiyimUrunleri.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmTeknolojiUrunleri.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmUyeOl.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn4 - Kopya\Pattern\obj\Debug\Pattern.FrmSiparis.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmUyeOl.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmKadin.resources
+C:\Users\melik\Desktop\Patternnn5- Kopya\Pattern\obj\Debug\Pattern.FrmErkek.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmKadin.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmErkek.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.FrmUyeOl.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn6- Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmKadin.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmErkek.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmUyeOl.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Patternnn7- Kopya\Pattern\obj\Debug\Pattern.FrmMusteriGorusleri.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmKadin.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmErkek.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmMusteriGorusleri.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.FrmUyeOl.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\Siniflar\Siniflar\4.SINIF\4.SINIF 1.DÖNEM\4111 YAZILIM TASARIMI\FİNAL ÖDEVİ\MelikeYilmaz\Pattern\Pattern\obj\Debug\Pattern.pdb
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\bin\Debug\Pattern.exe
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\bin\Debug\Pattern.pdb
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmGiris.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmAnaForm.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmKadin.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmErkek.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmMusteriGorusleri.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmUrunEkle.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmStok.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.FrmUyeOl.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.exe
+C:\Users\melik\Desktop\FİNAL ÖDEVİ\ShoppingApp\Pattern\Pattern\obj\Debug\Pattern.pdb
